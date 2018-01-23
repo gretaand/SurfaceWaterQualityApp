@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3d724092e1167946b65e78456a621867\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d8dbb06a43e89ecf4384ecd5f0ddf3ad\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\f2c33f0a58037c736bbce04afc9dd6d9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\9df59abe171523a52c76109d06118b35\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\285b25942a1a5a0d843c64c79a4bc205\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c344dd6294e03cbb9f1d1cd1ea71225e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3da4954b5211d3ef6e0b31ccf9b5ea52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e5f612a34939997b182de4b7d83d1ec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\261e6558e12a05b57265ea15d593caf0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8a62913f7834fc91516516f2887ee8f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\dce64e6c7aba7694b7cc7dd0f4992908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b3d07e8808087f8a437a74fc42770fed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a2c4fcbf7efee81e88852daa5126eea5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\687714c1e93c7a27bfc2dc0b05cb6cb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7a6c1085df268b52ac2fdf8f99baaaca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\252bf83f2de39f126439d3e5dbc12ce0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b830a9cd6bd7ba29ec8e91cdc615855f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e2a60b72bde853cbf1d674d4285ebf18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\08a2500e8b013ecab196ca0a4b844b73\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fa7c2fd41924bb962ee20a2a82e3e380\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\7fe5b2a9ce7b9b69ebc2c8127ff54845\AndroidManifest.xml:2:1-6:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5590458371d1d24d603d6ace02f9abbf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ffc7ba4aa4ae1415944b4b81b36de763\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\3a16b7cdcdfdb8665656c4418214d8fa\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d459f7f0159d8f19f557beb5721276c2\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+	package
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:5:5-57
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:1-57:12
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:24:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:14:22-76
+application
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:16:5-55:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d8dbb06a43e89ecf4384ecd5f0ddf3ad\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d8dbb06a43e89ecf4384ecd5f0ddf3ad\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\f2c33f0a58037c736bbce04afc9dd6d9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\f2c33f0a58037c736bbce04afc9dd6d9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\9df59abe171523a52c76109d06118b35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\9df59abe171523a52c76109d06118b35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\285b25942a1a5a0d843c64c79a4bc205\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\285b25942a1a5a0d843c64c79a4bc205\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e5f612a34939997b182de4b7d83d1ec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e5f612a34939997b182de4b7d83d1ec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\261e6558e12a05b57265ea15d593caf0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\261e6558e12a05b57265ea15d593caf0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\08a2500e8b013ecab196ca0a4b844b73\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\08a2500e8b013ecab196ca0a4b844b73\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fa7c2fd41924bb962ee20a2a82e3e380\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fa7c2fd41924bb962ee20a2a82e3e380\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\7fe5b2a9ce7b9b69ebc2c8127ff54845\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\7fe5b2a9ce7b9b69ebc2c8127ff54845\AndroidManifest.xml:5:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5590458371d1d24d603d6ace02f9abbf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5590458371d1d24d603d6ace02f9abbf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ffc7ba4aa4ae1415944b4b81b36de763\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ffc7ba4aa4ae1415944b4b81b36de763\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\3a16b7cdcdfdb8665656c4418214d8fa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\3a16b7cdcdfdb8665656c4418214d8fa\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:23:9-48
+	android:roundIcon
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.github.gretaand.surfacewaterqualityapp.MainActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.github.gretaand.surfacewaterqualityapp.MapsActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.github.gretaand.surfacewaterqualityapp.ResultsActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:33:9-35:58
+	android:parentActivityName
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:34:13-44
+activity#com.github.gretaand.surfacewaterqualityapp.LimitActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:36:9-38:61
+	android:parentActivityName
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:37:13-42
+activity#com.github.gretaand.surfacewaterqualityapp.AboutActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:39:19-48
+activity#com.github.gretaand.surfacewaterqualityapp.HelpActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:40:19-47
+activity#com.github.gretaand.surfacewaterqualityapp.BaseActivity
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:41:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:51:9-53:55
+	android:value
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:53:13-52
+	android:name
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml:52:13-58
+uses-sdk
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3d724092e1167946b65e78456a621867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3d724092e1167946b65e78456a621867\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d8dbb06a43e89ecf4384ecd5f0ddf3ad\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\d8dbb06a43e89ecf4384ecd5f0ddf3ad\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\f2c33f0a58037c736bbce04afc9dd6d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\f2c33f0a58037c736bbce04afc9dd6d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\9df59abe171523a52c76109d06118b35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\9df59abe171523a52c76109d06118b35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\285b25942a1a5a0d843c64c79a4bc205\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\285b25942a1a5a0d843c64c79a4bc205\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c344dd6294e03cbb9f1d1cd1ea71225e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\c344dd6294e03cbb9f1d1cd1ea71225e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3da4954b5211d3ef6e0b31ccf9b5ea52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3da4954b5211d3ef6e0b31ccf9b5ea52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e5f612a34939997b182de4b7d83d1ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e5f612a34939997b182de4b7d83d1ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\261e6558e12a05b57265ea15d593caf0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\261e6558e12a05b57265ea15d593caf0\AndroidManifest.xml:7:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:5:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8a62913f7834fc91516516f2887ee8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8a62913f7834fc91516516f2887ee8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\dce64e6c7aba7694b7cc7dd0f4992908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\dce64e6c7aba7694b7cc7dd0f4992908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b3d07e8808087f8a437a74fc42770fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b3d07e8808087f8a437a74fc42770fed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a2c4fcbf7efee81e88852daa5126eea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a2c4fcbf7efee81e88852daa5126eea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\687714c1e93c7a27bfc2dc0b05cb6cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\687714c1e93c7a27bfc2dc0b05cb6cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7a6c1085df268b52ac2fdf8f99baaaca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7a6c1085df268b52ac2fdf8f99baaaca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\252bf83f2de39f126439d3e5dbc12ce0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\252bf83f2de39f126439d3e5dbc12ce0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b830a9cd6bd7ba29ec8e91cdc615855f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b830a9cd6bd7ba29ec8e91cdc615855f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e2a60b72bde853cbf1d674d4285ebf18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e2a60b72bde853cbf1d674d4285ebf18\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\08a2500e8b013ecab196ca0a4b844b73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\08a2500e8b013ecab196ca0a4b844b73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fa7c2fd41924bb962ee20a2a82e3e380\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fa7c2fd41924bb962ee20a2a82e3e380\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\7fe5b2a9ce7b9b69ebc2c8127ff54845\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\7fe5b2a9ce7b9b69ebc2c8127ff54845\AndroidManifest.xml:4:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\0007da6bfcf1e1c9c0e7e955698bf612\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\45f553dd251a471fb5ab621620282fcc\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\9a74f0d0020b0062c0b44437589a245f\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\70859fe0e33f3cb827db22dcae2933c6\AndroidManifest.xml:27:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5590458371d1d24d603d6ace02f9abbf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\5590458371d1d24d603d6ace02f9abbf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ffc7ba4aa4ae1415944b4b81b36de763\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\ffc7ba4aa4ae1415944b4b81b36de763\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\3a16b7cdcdfdb8665656c4418214d8fa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\3a16b7cdcdfdb8665656c4418214d8fa\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d459f7f0159d8f19f557beb5721276c2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d459f7f0159d8f19f557beb5721276c2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\greta\OneDrive\Surface Water Quality App - Version 1.1\SurfaceWaterQualityAndroid\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\c9c50608260b4c6018484f44e62f0584\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\7ce67a176e2f26fbbd8c901b653a1743\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\81f623d1d78e901e8e01ceb6c9b173d9\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\781978de3edd0ae0fca69ff6d6bb6bde\AndroidManifest.xml:24:13-58
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\greta\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\21ed14998746d0e575ab6039dec83487\AndroidManifest.xml:13:13-75

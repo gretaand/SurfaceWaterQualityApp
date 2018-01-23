@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.github.gretaand.surfacewaterqualityapp.views.ClusterMarkerView
+        android:id="@+id/clusterMarker"
+        android:layout_height="@dimen/marker_layout_dimen"
+        android:layout_width="@dimen/marker_layout_dimen"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/clusterMarkerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        tools:text="5"/>
+
+</FrameLayout>

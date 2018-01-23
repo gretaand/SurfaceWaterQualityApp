@@ -1,0 +1,272 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Volley -->
+    <string name="volley_no_connection">No connection is available. Check your internet
+        connection.</string>
+    <string name="volley_timeout">The request has timed out. Check your internet connection.</string>
+    <string name="volley_auth_failure">There was an request authentication error. Contact us
+        if the problem persists request.</string>
+    <string name="volley_server_error">The server responded with an error. Contact us if
+        the problem persists.</string>
+    <string name="volley_network_error">There was a network error. Contact us if the problem
+        persists.</string>
+    <string name="volley_parse_error">The server\'s response could not be parsed. Contact us if
+        the problem persists.</string>
+    <string name="volley_error">There was a problem connecting to the server. Contact us if the
+        problem persists.</string>
+    <string name="try_again">Try Again</string>
+    <string name="auth_token">NSHi3fNKr4ybXjfoWZiD</string>
+
+    <!-- Toolbar -->
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="app_name">Surface Water Quality</string>
+
+    <!-- Main -->
+    <string name="permission_rationale">Location permission is needed for core functionality. Turn
+        on location?</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on
+        the device.</string>
+
+    <!-- Dialog Fragments -->
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="continue_without_location">Continue without location</string>
+    <string name="enter_app_without_location">Permission was denied. If you would like to update
+        the app settings to allow location access, click "Settings".  Otherwise, click "OK" to
+        enter the application with limited functionality.</string>
+
+    <!-- Map -->
+    <string name="no_stations_message">No stations available. Try zooming out or navigating to a
+        new area.</string>
+    <string name="too_many_stations_message">There are too many stations in this area. Try zooming
+        in.</string>
+    <string name="too_big_area">The area selected is too large. Try zooming in.</string>
+    <string name="warning_level">Warning Level:</string>
+    <string name="very_high">Very High</string>
+    <string name="high">High</string>
+    <string name="moderate">Moderate</string>
+    <string name="low">Low</string>
+    <string name="not_applicable">"N/A"</string>
+
+    <!-- Station Info - Results Activity -->
+    <string name="station_title">STATION INFORMATION</string>
+    <string name="station_name">Station Name: </string>
+    <string name="station_id">Station ID: </string>
+    <string name="station_location_type">Location Type: </string>
+
+    <!-- Results - Results Activity -->
+    <string name="results_title">RESULTS</string>
+    <string name="test_date">Test Date:</string>
+    <string name="parameter">Parameter:</string>
+    <string name="media_type">Media Type:</string>
+    <string name="measure_value">Measure Value:</string>
+    <string name="measure_unit">Measure Unit:</string>
+
+    <!-- Results Adapter -->
+    <string name="none_reported">None Reported</string>
+
+    <!-- Limit Info - Limit Activity -->
+    <string name="limit">LIMIT</string>
+    <string name="no_limit">There is no EPA recommended limit for this parameter.</string>
+    <string name="link">Link to more info: </string>
+    <string name="notes">Notes: </string>
+
+    <!-- Historical Results - Limit Activity -->
+    <string name="historical_graph_title">Historical Results Graph</string>
+    <string name="no_historical_results">No valid historical results available.</string>
+    <string name="no_historical_results_to_graph">No valid historical results available for
+        graphing. Historical results may be available, but either none match the selected result\'s
+        unit of measure or the measurements are not in a number format.</string>
+    <string name="multiple_points_bar_message">There are historical results available over only one
+        day; however, there are more than one result for the day. The maximum point is selected
+        for graphing.</string>
+
+    <!-- About page -->
+
+    <string name="about_info">
+        <Data>
+            <![CDATA[
+                <h2>Contact</h2>
+                <p>
+                    If you have questions, concerns, comments or feedback, please
+                    feel free to contact us at <a href="mailto:surfacewaterquality@andaker.com">
+                    surfacewaterquality@andaker.com</a>.
+                </p>
+                <h2><a href="https://www.docracy.com/1fhgd8mnw5/surface-water-quality-privacy-policy">
+                    Privacy Policy</a>
+                </h2>
+                <h2>Open Source Acknowledgements</h2>
+                <p>
+                    This application may contain portions of the following libraries, subject to
+                    the below licenses.<br><br>
+
+                    <b>Google Maps Android API Utility Library</b> (<a href="https://github.com/googlemaps/android-maps-utils">
+                    https://github.com/googlemaps/android-maps-utils<a/>)<br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>google-gson</b> (<a href="https://github.com/google/gson">
+                    https://github.com/google/gson</a>)</b><br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>Parceler</b> (<a href="https://github.com/johncarl81/parceler">
+                    https://github.com/johncarl81/parceler</a>)<br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>GraphView Chart and Graph Library for Android</b> (<a href="https://github.com/appsthatmatter/GraphView>
+                    https://github.com/appsthatmatter/GraphView</a>)<br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>Android Support Library</b> (<a href="https://android.googlesource.com/platform/frameworks/support/>
+                    https://android.googlesource.com/platform/frameworks/support/</a><br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>Volley</b> (<a href="https://github.com/google/volley">
+                    https://github.com/google/volley</a>)<br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>Hibernate ORM</b> (<a href="https://github.com/hibernate/hibernate-orm">
+                    https://github.com/hibernate/hibernate-orm</a>)<br><br>
+                    License: LGPL 2.1<br>
+                    <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
+                    https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a><br><br>
+
+                    <b>Apache Maven</b> (<a href="https://github.com/apache/maven">
+                    https://github.com/apache/maven</a>)<br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>c3p0</b> (<a href="https://github.com/swaldman/c3p0">
+                    https://github.com/swaldman/c3p0</a>)<br><br>
+                    License: LGPL 2.1<br>
+                    <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">
+                    https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a><br><br>
+
+                    <b>RESTEasy</b> (<a href="https://github.com/resteasy/Resteasy">
+                    https://github.com/resteasy/Resteasy</a>) <br><br>
+                    License: Apache 2.0<br>
+                    <a href="http://apache.org/licenses/LICENSE-2.0">
+                    http://apache.org/licenses/LICENSE-2.0</a><br><br>
+
+                    <b>Jackson Data Processor</b> (<a href="https://github.com/FasterXML/jackson-core">
+                    https://github.com/FasterXML/jackson-core</a>)
+                </p>
+                <h2>Image Attributions</h2>
+                <p>
+                    <a href="https://www.iconfinder.com/icons/2316005/activity_fish_fishing_outdoors_icon#size=512>
+                    Activity, fish, fishing, outdoors icon</a> by <a href="https://www.iconfinder.com/DOTonPAPER>
+                    Dot on Paper</a> is licensed under <a href="https://creativecommons.org/licenses/by/3.0/>
+                    CC BY 3.0</a><br><br>
+
+                    <a href="https://www.iconfinder.com/icons/131637/browser_earth_global_globe_planet_world_icon#size=512>
+                    Browser, earth, global, globe, planet, world icon</a> by
+                    <a href="https://www.iconfinder.com/aha-soft">Aha-Soft</a> / Desaturated from
+                    original
+                </p>
+            ]]>
+        </Data>
+    </string>
+
+    <!-- Help page -->
+    <string name="app_info">
+        <Data>
+            <![CDATA[
+                <h2>Application Information</h2>
+                <h4>General</h4>
+                <p>
+                    The Surface Water Quality application provides testing results for water
+                    monitored by state, federal, tribal and local agencies. The data is collected from the
+                    <a href="https://www.waterqualitydata.us/">Water Quality Portal (WQP)</a> which is a
+                    service sponsored by the United States Geological Survey (USGS), the Environmental
+                    Protection Services (EPA), and the National Water Quality Monitoring Council (NWQMC).
+                </p>
+                <p>
+                    Warning: This application is designed only to present existing data provided
+                    through the WQP and is not intended to by a primary source for evaluating if a
+                    body of water is safe to use for fishing, swimming or other recreational
+                    purposes. It is also important to note that water quality can vary significantly
+                    over time and in response to various events (e.g. storms, drought, temperature,
+                    etc.).
+                </p>
+                <h4>Technical</h4>
+                <p>
+                    This application gathers data from the WQP, over the last 16 months, and compares
+                    the results against the National Recommended Water Quality Criteria, which are
+                    developed by the EPA under Section 304(a) of the Clean Water Act. These
+                    recommended criteria represent specific levels of chemicals or conditions in
+                    a water body that are expected to not cause adverse effects to human health.
+                    EPA provides recommendations for consumption of “water + organism” and “organism
+                    only” human health criteria; however, with this application, we only consider
+                    the less stringent "organism only" criteria to provide a reference for
+                    individuals who wish to use a body of water for recreational purposes (e.g.
+                    fishing and swimming). You can find a table of these recommended criteria
+                    <a href="https://www.epa.gov/wqc/national-recommended-water-quality-criteria-human-health-criteria-table">here</a>.
+                </p>
+                <p>
+                    All criteria should be considered when evaluating a body of water for fishing;
+                    however, only pathogens (e.g. Escherichia coli, Enterococci and historically fecal
+                    coliforms) and cyanotoxins (draft recommendations) are currently used by the EPA to evaluate
+                    whether a body of water is safe for swimming. You can find more details about
+                    the pathogen thresholds and our conservative assumptions to simplify the results in
+                    the limit info section when a result is selected.
+                </p>
+                <h2>Using the Application</h2>
+                <h4>Find a Monitoring Station</h4>
+                <p>
+                    When the application launches you will see a map. Slide the map around to find
+                    monitoring locations. A message will display with instructions to zoom in or out
+                    if there are no stations or too many stations to display. If needed, click on a
+                    marker cluster icon to zoom into individual stations. Stations are only
+                    displayed if results are available within the last 16 months and are
+                    color coded by warning level. Each result is assigned a warning level based on
+                    the criteria recommended limits, if available, and each station is assigned a
+                    warning level based on the most recent results for each chemical or condition.
+                    Result warning level are assigned as follows:
+                </p>
+            ]]>
+        </Data>
+    </string>
+    <string name="warning_level_very_high">Concentration is over recommended level</string>
+    <string name="warning_level_high">Concentration is 90% or greater of the recommended level</string>
+    <string name="warning_level_medium" tools:ignore="StringFormatInvalid">Concentration is between 60% and 90% of the recommended level</string>
+    <string name="warning_level_low">Concentration is less than 60% of the recommended level</string>
+    <string name="warning_level_none">No recommended level</string>
+    <string name="view_limits_and_historical_results">
+        <Data>
+            <![CDATA[
+                <h4>Viewing Results</h4>
+                <p>
+                    To view location details and results for a particular monitoring station, click
+                    on the station marker. Station details are displayed followed by a list of
+                    the most recent results for each chemical or condition. Results are ordered
+                    first by highest warning level, if one exists, and then by date.
+                </p>
+                <h4>Viewing Recommended Criteria Limits and Historical Results</h4>
+                <p>
+                    To view the recommended limits and any historical results for a chemical or
+                    condition, click on the desired result. This will display a screen with the
+                    limit information followed by a graph with all the historical results, including
+                    the most recent result, available over the past 16 months. If a limit is
+                    available for the chemical or condition, a red line is drawn on the graph to
+                    indicate the limit level. Any result measurements reported as not detected,
+                    present below quantification limit, or trace are included in the historical
+                    graph as zero.
+                </p>
+            ]]>
+        </Data>
+    </string>
+
+</resources>

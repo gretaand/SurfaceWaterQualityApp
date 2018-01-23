@@ -1,0 +1,31 @@
+# Android Studio Default
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/src/release
+
+# Keystore properties
+/keystore.properties
+
+# Built application files
+*.apk
+*.ap_
+
+# Crashlytics
+com_crashlytics_build_id.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Package Files #
+*.war
+*.ear
+
+# Signing files
+.signing/
